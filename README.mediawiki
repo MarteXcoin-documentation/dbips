@@ -1,4 +1,4 @@
-Here we discuss Bitcoin Improvement Proposals (BIPs) that have made or could make their way into Dash generally from an downstream merge from Bitcoin Core.
+Here we discuss Bitcoin Improvement Proposals (BIPs) that have made or could make their way into Dash generally from an downstream merge from Bitcoin Core. And so make part of MarteX.
 
 You can not submit BIPs into Dash.  The name for Dash Improvement Proposals are [https://github.com/dashpay/dips DIPs] and they are Dash specific.
 
