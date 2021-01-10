@@ -34,4 +34,44 @@ State can be defined, active, failed. Dates are in UTC.
 | 2018-09-18 00:00:00
 | Active
 | [https://github.com/dashpay/dips/blob/master/dip-0001.md DIP-1]
+|-
+| bip147
+| 2
+| 2018-04-23 00:00:00
+| 2019-04-23 00:00:00
+| Active
+| 2018-12-13 00:00:00
+| 2019-12-13 00:00:00
+| Active
+| [[/bip-0147.mediawiki|147]]
+|-
+| dip0003
+| 3
+| 2019-01-01 00:00:00
+| 2020-01-01 00:00:00
+| Active
+| 2018-12-13 00:00:00
+| 2019-12-13 00:00:00
+| Active
+| [https://github.com/dashpay/dips/blob/master/dip-0003.md DIP-3]
+|-
+| dip0008
+| 4
+| 2019-05-15 00:00:00
+| 2020-05-15 00:00:00
+| Active
+| 2019-03-21 00:00:00
+| 2020-03-21 00:00:00
+| Active
+| [https://github.com/dashpay/dips/blob/master/dip-0008.md DIP-8]
+|-
+| realloc
+| 5
+| 2020-10-01 00:00:00
+| 2021-10-01 00:00:00
+| Started
+| 2020-09-01 00:00:00
+| 2021-09-01 00:00:00
+| Active
+| 
 |}
